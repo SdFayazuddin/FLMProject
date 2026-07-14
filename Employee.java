@@ -51,4 +51,11 @@ public class Employee{
 	   System.out.println("Mod method executed ...");
 	}
 
+	public void square(){
+	   int a = 10;
+	   int c = a * a;
+	   System.out.println(c);
+	   System.out.println("Bye");
+	   System.out.println("Square method executed ...");
+	}
 }

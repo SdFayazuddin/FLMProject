@@ -33,4 +33,13 @@ public class Employee{
 	   System.out.println("Div method executed ...");
 	}
 
+	public void mul(){
+	   int a = 10;
+	   int b = 20;
+	   int c = a * b;
+	   System.out.println(c);
+	   System.out.println("Bye");
+	   System.out.println("Mul method executed ...");
+	}
+
 }

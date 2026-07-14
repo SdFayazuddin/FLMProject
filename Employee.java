@@ -15,4 +15,13 @@ public class Employee{
 	   System.out.println("Sum method executed ...");
 	}
 
+	public void sub(){
+	   int a = 10;
+	   int b = 20;
+	   int c = a - b;
+	   System.out.println(c);
+	   System.out.println("Bye");
+	   System.out.println("Sub method executed ...");
+	}
+
 }

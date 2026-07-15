@@ -62,4 +62,8 @@ public class Employee{
 	public void dummy(){
 		System.out.println("Added to get conflict");
 	}
+
+	public void dummy1(){
+		System.out.println("Added to get conflict");
+	}
 }

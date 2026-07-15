@@ -51,11 +51,12 @@ public class Employee{
 	   System.out.println("Mod method executed ...");
 	}
 
-	public void square(){
+	public void pow(){
 	   int a = 10;
-	   int c = a * a;
+	   int b = 20;
+	   double c = Math.pow(a, b);
 	   System.out.println(c);
 	   System.out.println("Bye");
-	   System.out.println("Square method executed ...");
+	   System.out.println("Power method executed ...");
 	}
 }

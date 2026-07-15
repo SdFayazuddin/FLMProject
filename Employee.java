@@ -58,4 +58,8 @@ public class Employee{
 	   System.out.println("Bye");
 	   System.out.println("Square method executed ...");
 	}
+
+	public void dummy(){
+		System.out.println("Added to get conflict");
+	}
 }

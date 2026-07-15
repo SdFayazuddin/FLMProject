@@ -39,7 +39,7 @@ public class Employee{
 	   int c = a * b;
 	   System.out.println(c);
 	   System.out.println("Bye");
-	   System.out.println("Mul method executed ...");
+	   System.out.println("Multiplication method executed ...");
 	}
 
 	public void mod(){
